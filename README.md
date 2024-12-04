@@ -10,9 +10,8 @@
       - Interested in DSA, ML, WebDev, and UI/UX<br>
       - You can contact me via Email: vivekaggarwal569@gmail.com<br>
       - View My <a href="https://portfolio-vivek-05.vercel.app/" target="_blank">Portfolio Website</strong></a>
-    </p>
+    </p>    
   </div>
-  <img src="./laptop.gif" alt="GIF" style="width: 100px; height: 100px;">
 
 </div>
 
