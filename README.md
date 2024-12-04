@@ -5,7 +5,8 @@
 
 - I am a pre-final year Computer Science Undergrad
 - Interested in DSA, ML, WebDev and UI/UX
-- You can contact me via Email: vivekaggarwal569@gmail.com<br>
+- You can contact me via Email: vivekaggarwal569@gmail.com
+- View My <a href="https://portfolio-vivek-05.vercel.app/" target="_blank">Portfolio Website</strong></a>
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivekaggarwal05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-aggarwal-b005b125a/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/vivekaggarwal569)
