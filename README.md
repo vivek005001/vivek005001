@@ -3,10 +3,18 @@
 </h1>
 
 
-- I am a pre-final year Computer Science Undergrad
-- Interested in DSA, ML, WebDev and UI/UX
-- You can contact me via Email: vivekaggarwal569@gmail.com
-- View My <a href="https://portfolio-vivek-05.vercel.app/" target="_blank">Portfolio Website</strong></a>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <div>
+    <p style="margin: 0;">
+      - I am a pre-final year Computer Science Undergrad<br>
+      - Interested in DSA, ML, WebDev, and UI/UX<br>
+      - You can contact me via Email: vivekaggarwal569@gmail.com<br>
+      - View My <a href="https://portfolio-vivek-05.vercel.app/" target="_blank">Portfolio Website</strong></a>
+    </p>
+  </div>
+  <img src="./laptop.gif" alt="GIF" style="width: 100px; height: 100px;">
+
+</div>
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivekaggarwal05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-aggarwal-b005b125a/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/vivekaggarwal569)
