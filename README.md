@@ -6,7 +6,7 @@
 <div style="display: flex; align-items: center; gap: 10px;">
   <div>
     <p style="margin: 0;">
-      - I am a pre-final year Computer Science Undergrad<br>
+      - I am a Final year Computer Science Undergrad<br>
       - Interested in DSA, ML, WebDev, and UI/UX<br>
       - You can contact me via Email: vivekaggarwal569@gmail.com<br>
       - View My <a href="https://portfolio-vivek-05.vercel.app/" target="_blank">Portfolio Website</strong></a>
